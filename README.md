@@ -5,7 +5,8 @@ Test a webpage throughput with rspec and capybara on more than one threads.
 
 Used gems
 ---------
-```ruby
+
+```
 gem install rspec
 gem install selenium-webdriver
 gem install capybara
