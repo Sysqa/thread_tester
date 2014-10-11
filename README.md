@@ -13,7 +13,7 @@ gem install capybara
 gem install capybara-webkit
 ```
 
-Useage
+Usage
 ------
 Edit the `spec/test_threadsafe_spec.rb` file, e.g.
 
